@@ -1,0 +1,6 @@
+{
+    "name": "ivan-santobuono/code-wars",
+    "require": {
+        "phpunit/phpunit": "^8.1"
+    }
+}
